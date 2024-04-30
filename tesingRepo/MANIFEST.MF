@@ -1,1 +1,4 @@
+Manifest-Version: 1.0
 Main-Class: tesingRepo.tesingClass
+Class-Path: org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17 src C:/Users/Akhilesh Kumar Reddy/Downloads/selenium-server-4.20.0.jar
+
